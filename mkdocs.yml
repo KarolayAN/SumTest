@@ -1,9 +1,9 @@
-site_name: Módulo Sum
+site_name: Modulo Sum
 
 theme:
   name: "material"
 
-pluggins:
+plugins:
   - mkdocstrings
 
 nav:
